@@ -1,0 +1,135 @@
+！
+！
+！
+！！Mobile
+！！！白名单
+
+@@||c.cooleasy.net^$app=com.tencent.mm  ！洗衣机
+@@||ujn.edu.cn^  ！济大
+
+！！！通用拦截
+||p*-sign.douyinpic.com^
+||v*-default.365yg.com^
+||v*-default.ixigua.com^
+||pglstatp-toutiao.com^
+
+！！！软件
+！酷安：coolapk
+||image.coolapk.com/goods^$app=com.coolapk.market
+||image.coolapk.com/goods_cover^$app=com.coolapk.market  !酷安好物
+||image.coolapk.com/image/*/*/*/*@1080x200.*$app=com.coolapk.market  !横幅推广
+
+！QQ
+||d3g.qq.com^$app=com.tencent.mobileqq  !不明
+||hud.url.cn^$app=com.tencent.mobileqq  !个性化
+
+!微信
+||wxs.qq.com^$app=com.tencent.mm  !广告
+
+！应用安装程序推荐
+||pp.myapp.com^$app=com.android.packageinstaller  ！广告
+
+
+！！PC
+
+！知乎
+！PC
+zhuanlan.zhihu.com##div:last-child > div > div.css-1ynzxqw  ！右下弹窗
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.ColumnPageHeader-Wrapper:first-child  ！顶栏
+zhuanlan.zhihu.com##div.css-1hwwfws  ！弹窗
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Recommendations-Main:last-child  !底部推广
+！Mobile
+zhuanlan.zhihu.com###root > div.App > main.App-main:last-child > div.Post-content.Post-content-mobile > div:first-child > header.Sticky.MobileAppHeader > div.MobileAppHeader-inner:first-child > div.MobileAppHeader-inner:last-child  ！顶栏
+zhuanlan.zhihu.com###root > div.App > main.App-main:last-child > div.Post-content.Post-content-mobile > div.KfeCollection-VipRecommendCard.KfeCollection-VipRecommendCard-article.Post-VipRecommendCard  ！广告
+zhuanlan.zhihu.com###root > div.App > main.App-main:last-child > div.Post-content.Post-content-mobile > div.Post-Sub.Post-Sub-Mobile:last-child > div:nth-child(3)  ！广告
+zhuanlan.zhihu.com###root > div.App > main.App-main:last-child > div.Post-content.Post-content-mobile > div.Post-Sub.Post-Sub-Mobile:last-child > div.OpenInAppButton.is-higher.css-1f5xhxn  ！APP
+
+！
+！PC
+book118.com###sidebar
+book118.com###header
+book118.com###footer
+book118.com###notice
+max.book118.com###main > div.detail:first-child > div.preview:nth-child(3) > div.preview-bar.fixed:last-child > div.container > div.bar > ul.operate:last-child
+max.book118.com###main > div.side:last-child
+max.book118.com##div.side-fixed:last-child > div.container
+max.book118.com##div.side-fixed:nth-child(13)
+max.book118.com###main > div.detail:first-child > div.relate:nth-child(5)
+max.book118.com###main > div.detail:first-child > div.title:first-child > ul.operate:last-child
+max.book118.com###main > div.detail:first-child > div.comment:last-child
+max.book118.com###main > div.detail:first-child > div.preview:nth-child(3) > div.preview-bar:last-child > div.container > div.bar > ul.operate:last-child
+m.book118.com###main > div.notice:nth-child(4)
+m.book118.com###main > div.merchants:nth-child(5)
+m.book118.com###main > div.describe:nth-child(6)
+m.book118.com###main > div.last:last-child
+m.book118.com##div.preview:nth-child(7)
+m.book118.com##div.preview:nth-child(6)
+m.book118.com##div.preview:nth-child(5)
+
+！百度知道
+zhidao.baidu.com###qb-side
+zhidao.baidu.com###qb-content > div.question-all-answers-number:nth-child(4) > div.question-number-text-chain:last-child
+zhidao.baidu.com###ask-info
+zhidao.baidu.com###j-nav-menu-container
+zhidao.baidu.com###search-box > ul.channel.grid:first-child
+zhidao.baidu.com##button.task-list-button:nth-child(10)
+zhidao.baidu.com##div.wgt-footer-new:nth-child(13)
+zhidao.baidu.com##div.aria-div:nth-child(14)
+zhidao.baidu.com###qbleftdown-container
+zhidao.baidu.com###wgt-related
+zhidao.baidu.com##div.jump-top-box
+
+！
+！中关村在线
+diy.zol.com.cn##div.article-side-box:nth-child(10)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.aside:last-child
+diy.zol.com.cn##div.article-side-box:nth-child(11)
+diy.zol.com.cn###showFocusLookBottom
+diy.zol.com.cn##div.draglayer:first-child
+diy.zol.com.cn###nav-list-fixed
+diy.zol.com.cn##div.wrapper:nth-child(7) > div.clearfix:last-child > div.aside:last-child
+diy.zol.com.cn###relatedArticles-2020
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.productbox:nth-child(14)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.news-about.guess-you-like-area:nth-child(15)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.goBack.clearfix:nth-child(16)
+diy.zol.com.cn###commentsiframe
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.section-head.clearfix:nth-child(23)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.hot-search:nth-child(25)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.param-nav:nth-child(24)
+diy.zol.com.cn##div.wrapper:nth-child(6) > div.clearfix:last-child > div.main:first-child > div.hotword-tag:nth-child(26)
+
+！ 
+！好看视频
+haokan.baidu.com###rooot > div.pagebase.pagebase-fullmain:first-child > div.pagebase-right.pagebase-right-fullmain:last-child > div.pagebase-right-bottom.pagebase-right-bottom-fullmain:last-child > div.page:first-child > div.page-top > div.page-right:last-child
+haokan.baidu.com###rooot > div.pagebase.pagebase-fullmain:first-child > div.pagebase-right.pagebase-right-fullmain:last-child > div.pagebase-right-bottom.pagebase-right-bottom-fullmain:last-child > div.page-bottom:nth-child(2)
+haokan.baidu.com###rooot > div.pagebase.pagebase-fullmain:first-child > div.pagebase-right.pagebase-right-fullmain:last-child > div.pagebase-right-top:first-child
+haokan.baidu.com###art-player-wrapper > div.player-pause-code:nth-child(4)
+
+！ 
+！CSDN
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box.insert-baidu-box.recommend-box-style:nth-child(13)
+blog.csdn.net###mainBox > main:nth-child(2) > div.template-box:nth-child(15)
+blog.csdn.net###mainBox > main:nth-child(2) > div.first-recommend-box.recommend-box:nth-child(8)
+blog.csdn.net###mainBox > main:nth-child(2) > div.second-recommend-box.recommend-box:nth-child(10)
+blog.csdn.net###mainBox > main:nth-child(2) > div.blog-footer-bottom:nth-child(16)
+blog.csdn.net##div.passport-login-container:last-child
+blog.csdn.net###recommend
+blog.csdn.net###comment
+blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(3)
+
+！ 
+！哔哩哔哩弹窗
+m.bilibili.com###app > div.m-head > div.m-home:last-child > div.launch-app-btn.home-float-openapp:last-child
+bilibili.com###readRecommendInfo
+
+！ 
+！豆丁
+docin.com###page > div.page_wrap > div.page_body.clear:last-child > div.aside:last-child
+docin.com###page > div.page_wrap > div.page_body.clear:last-child > div.main:first-child > div.doc_main:first-child > div.doc_header_mod:first-child > div.doc_active_info:nth-child(2)
+docin.com###page > div.page_wrap > div.page_body.clear:last-child > div.main:first-child > div.doc_main:first-child > div.doc_header_mod:first-child > div.doc_fun_wrap:nth-child(4)
+docin.com###page > div.page_wrap > div.page_body.clear:last-child > div.main:first-child > div.doc_main:first-child > div.doc_header_mod:first-child > div.docin_share_sns.share_style2
+docin.com###docinShareSlider
+docin.com##div.backToTop
+docin.com##div.head_wrapper
+docin.com###j_isend > div.no_more_tips > div.share_new_style
+
